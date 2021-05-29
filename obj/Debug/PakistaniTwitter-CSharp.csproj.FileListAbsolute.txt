@@ -1,0 +1,14 @@
+F:\VPL Assignments\PakistaniTwitter-CSharp\bin\Debug\PakistaniTwitter-CSharp.exe.config
+F:\VPL Assignments\PakistaniTwitter-CSharp\bin\Debug\PakistaniTwitter-CSharp.exe
+F:\VPL Assignments\PakistaniTwitter-CSharp\bin\Debug\PakistaniTwitter-CSharp.pdb
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter-CSharp.csprojAssemblyReference.cache
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter_CSharp.Form1.resources
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter_CSharp.Properties.Resources.resources
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter-CSharp.csproj.GenerateResource.cache
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter-CSharp.csproj.CoreCompileInputs.cache
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter-CSharp.exe
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter-CSharp.pdb
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter_CSharp.SignUpForm.resources
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter_CSharp.Dashboard.resources
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter_CSharp.ManageUsers.resources
+F:\VPL Assignments\PakistaniTwitter-CSharp\obj\Debug\PakistaniTwitter_CSharp.UploadTweets.resources
